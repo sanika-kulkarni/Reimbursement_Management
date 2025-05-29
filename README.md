@@ -47,13 +47,8 @@ This file aims to create an AI agent which will manage the reimbursement related
 * "What is the cost for fixing a knee replacement?"
 * "How much does insurance cover for code 10293?"
 * "Is the price different for dialysis if you don't stay overnight?"
-* "What is the code for Brain Tumours?" (It might suggest something similar if you have a slight typo).
+* "What is the code for Brain Tumours?" 
 
-#Important Notes
-
-* The answers you get depend on how good the information in your price list files is.
-* This version just looks for keywords. A smarter version could understand your questions better in the future.
-* Try to have clear headings in your price list files.
 
 # Future Scope
 
