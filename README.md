@@ -35,7 +35,7 @@ This file aims to create an AI agent which will manage the reimbursement related
 3.  *Run the Script:* Open your computer's command line again, go to the folder where you saved the Python script, and run it by typing:
 
     ```bash
-    python tariff_sage.py
+    python source_code.py
     ```
 
 4.  *Ask Questions:* The program will start, and you can type your questions about costs and press Enter.
