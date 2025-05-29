@@ -1,5 +1,5 @@
 # Reimbursement_Management
-This file aims to create an AI agent which will manage the reimbursement related queries which will help hospital/clinic staff for better operability called "The Tariff Sage," helps hospital staff find information about medical procedure reimbursements from tariff documents. You can ask it questions in plain language, and it will try to find answers in the files you give it.
+This file aims to create an AI agent which will manage the reimbursement related queries which will help hospital/clinic staff for better operability called "The Tariff Sage,". You can ask it questions in plain language, and it will try to find answers in the files which are provided by the user.
 
 # Features
 
