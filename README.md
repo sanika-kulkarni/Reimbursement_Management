@@ -25,10 +25,9 @@ This file aims to create an AI agent which will manage the reimbursement related
 
     ```python
     if __name__ == "__main__":
-        tariff_files = ['path/to/tariff_data_sheet1.csv',
-                        'path/to/tariff_data_sheet2.xlsx',
-                        'path/to/another_tariff_file.json']
-        # Change 'path/to/' to the real place where your files are
+        tariff_files = ['path to excel file1.xlsx',
+                        'path to excel file 2.xlsx',
+                        'path to excel file 3.xls']
     ```
 
     Change the words inside the square brackets `[]` to the actual locations of your price list files on your computer. If you have two Excel files, you might list them both here.
